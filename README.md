@@ -5,7 +5,7 @@ Tired of generating bills every month. So here is the code to generate the petro
 
 Features for now:
 1. Petrol/Diesel Bill Generator (both in png and pdf)
-
+2. Traveling Invoice (Bus) for LTA (in pdf)
 
 ## Usage
 
